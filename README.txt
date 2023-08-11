@@ -1,6 +1,6 @@
 README TXT
 
-The purpose of this program is to classify music using a deep learning algorithm. Using the GTZAN dataset, we use MATLAB's deep learning algorithm toolbox to analyze the Mel-spectogram images in the dataset to predict what genre a song belongs in. Currently this program has two CNN layers as my computer CPU can only handle two layers. However with each additional layer, the algorithm should be able to provide a more accurate prediction.
+The purpose of this program is to classify music using a deep learning algorithm. Using the GTZAN dataset, we use MATLAB's deep learning algorithm toolbox to analyze the Mel-spectrogram images in the dataset to predict what genre a song belongs in. Currently this program has two CNN layers as my computer CPU can only handle two layers. However with each additional layer, the algorithm should be able to provide a more accurate prediction.
 
 Results:
 The algorithm had a 75% accuracy in the training model, and 40% accuracy with testing.
